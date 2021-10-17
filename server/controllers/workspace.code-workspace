@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Redis caching",
+			"path": "..\\.."
+		},
+		{
+			"name": "client",
+			"path": "..\\..\\..\\Mern-skeleton-master\\Mern-skeleton-master\\client"
+		},
+		{
+			"name": "config",
+			"path": "..\\..\\..\\Mern-skeleton-master\\Mern-skeleton-master\\config"
+		},
+		{
+			"name": "server",
+			"path": "..\\..\\..\\Mern-skeleton-master\\Mern-skeleton-master\\server"
+		}
+	],
+	"settings": {}
+}
